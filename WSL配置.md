@@ -179,6 +179,7 @@ alias ll="ls -alF"
 alias rm="rm -i"
 
 alias proxy="source /home/ubuntu/proxy.sh"
+. /home/ubuntu/proxy.sh set
 ```
 
 
